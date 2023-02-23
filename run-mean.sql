@@ -1,0 +1,1 @@
+SELECT AVG(TotalPurchases) FROM users.purchases
